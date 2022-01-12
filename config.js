@@ -64,9 +64,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Google',
-      icon: 'search',
-      link: 'https://google.com',
+      name: 'Soundcloud',
+      icon: 'soundcloud',
+      link: 'https://soundcloud.com',
     },
     {
       id: '6',
