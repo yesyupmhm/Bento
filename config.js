@@ -65,7 +65,7 @@ const CONFIG = {
     {
       id: '5',
       name: 'Soundcloud',
-      icon: 'soundcloud',
+      icon: 'music',
       link: 'https://soundcloud.com',
     },
     {
